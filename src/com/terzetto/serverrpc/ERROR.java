@@ -5,7 +5,6 @@ public enum ERROR {
 
 		@Override
 		public int getCode() {
-			// TODO Auto-generated method stub
 			return 200;
 		}
 
